@@ -1,0 +1,14 @@
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.exe
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.deps.json
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.runtimeconfig.json
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.runtimeconfig.dev.json
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.dll
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.pdb
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.csprojAssemblyReference.cache
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.csproj.ResolveComReference.cache
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.AssemblyInfoInputs.cache
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.AssemblyInfo.cs
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.csproj.CoreCompileInputs.cache
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.dll
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.pdb
+C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.genruntimeconfig.cache
