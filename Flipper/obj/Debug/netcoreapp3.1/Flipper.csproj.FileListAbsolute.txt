@@ -11,4 +11,4 @@ C:\Users\214387\source\repos\Flipper\Flipper\obj\Debug\netcoreapp3.1\Flipper.dll
 C:\Users\214387\source\repos\Flipper\Flipper\obj\Debug\netcoreapp3.1\Flipper.pdb
 C:\Users\214387\source\repos\Flipper\Flipper\obj\Debug\netcoreapp3.1\Flipper.genruntimeconfig.cache
 C:\Users\214387\source\repos\Flipper\Flipper\obj\Debug\netcoreapp3.1\Flipper.csproj.ResolveComReference.cache
-C:\Users\214387\source\repos\Flipper\Flipper\obj\Debug\netcoreapp3.1\Flipper.csprojAssemblyReference.cache
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Debug\netcoreapp3.1\Flipper.bat

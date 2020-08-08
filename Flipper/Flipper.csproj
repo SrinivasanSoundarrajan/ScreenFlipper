@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWpf>true</UseWpf>
-	<UseWindowsForms>true</UseWindowsForms> 
+	<UseWindowsForms>true</UseWindowsForms>
+	<ApplicationIcon></ApplicationIcon> 
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,6 +15,12 @@
       <VersionMinor>4</VersionMinor>
       <WrapperTool>tlbimp</WrapperTool>
     </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Flipper.bat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

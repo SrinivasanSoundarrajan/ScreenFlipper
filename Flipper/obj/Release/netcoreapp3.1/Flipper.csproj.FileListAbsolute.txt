@@ -12,3 +12,4 @@ C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.c
 C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.dll
 C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.pdb
 C:\Users\214387\source\repos\Flipper\Flipper\obj\Release\netcoreapp3.1\Flipper.genruntimeconfig.cache
+C:\Users\214387\source\repos\Flipper\Flipper\bin\Release\netcoreapp3.1\Flipper.bat
